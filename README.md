@@ -4,6 +4,8 @@ Projeto com a parte de back, resposável por fornecer as as informações da pro
 O serviço estará diusponível em localhost:3333
 
 ## Instruções de Execução
+
+Renomear o arquivo .env.example para .env
 ```bash
 $ cd pet-love-back-teste
 $ npm i
